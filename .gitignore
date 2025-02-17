@@ -1,0 +1,30 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environments
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs (e.g., PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files created by OS or editor
+*.swp
+*~
+
+# macOS system files
+.DS_Store
